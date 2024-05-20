@@ -1,0 +1,15 @@
+.navigation {
+  display: flex;
+  gap: 8px;
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(168, 141, 213);
+  font-size: 20px;
+  display: flex;
+}
+
+.active {
+  color: rgb(205, 24, 33);
+}
